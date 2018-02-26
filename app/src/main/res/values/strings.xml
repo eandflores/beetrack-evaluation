@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Noticias Beetrack</string>
+    <string name="error_internet_connection">Por favor, verifica tu conexión a internet</string>
+    <string name="error_server_internal">Ha ocurrido un problema, por favor intenta mas tarde</string>
+
+    <!-- main -->
+    <string-array name="sections">
+        <item>Noticias</item>
+        <item>Favoritas</item>
+    </string-array>
+
+    <!-- artists -->
+    <string name="articles_empty">No hay elementos que mostrar</string>
+    <string name="articles_loading">Cargando...</string>
+    <string name="articles_search_hint">Buscar</string>
+    <string name="articles_source_hint">Fuente</string>
+    <string name="articles_title_hint">Título</string>
+    <string name="articles_description_hint">Descripción...</string>
+    <string name="articles_author_hint">Autor</string>
+    <string name="articles_published_hint">Fecha</string>
+
+    <string name="article_empty_url">Lo sentimos, el vínculo está roto, inténtalo mas tarde</string>
+    <string name="article_empty_title">Lo sentimos, la noticia está incompleta, inténtalo mas tarde</string>
+
+</resources>
